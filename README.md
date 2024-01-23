@@ -3,5 +3,8 @@
 
 
 простая игра, написанная на HTML + JS + CSS
-[click] (file:///D:/4sem/JS/chrome_dino_game/index.html)
+
+
+
+### [Click here](https://mashassnvts.github.io/Chrome_dino_game/)
 
