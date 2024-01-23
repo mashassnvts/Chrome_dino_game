@@ -6,5 +6,5 @@
 
 
 
-### [Click here](https://mashassnvts.github.io/Chrome_dino_game/)
+
 
